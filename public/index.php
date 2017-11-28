@@ -1,4 +1,4 @@
 <?php
-	var_dump(phpinfo());
-	var_dump(33);
+	echo "我在测试";
+	phpinfo();
 	die();
